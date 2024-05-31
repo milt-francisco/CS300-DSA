@@ -8,6 +8,7 @@ The advisors for a college wanted a program that held and displayed courses with
 
 ## How did you approach the problem? Consider why data structures are important to understand.
 I first created pseudocode for the 3 data structures that were proposed for use. The data structures were important to understand because they affect how the program will run. 
+Each data structure has trade-offs in its use. Hash Tables and Trees involved a longer runtime when loading data into the structure, but was faster when searching for specific courses. Conversely, vectors were faster when loading and slower when searching.
 
 ## How did you overcome any roadblocks you encountered while going through the activities or project?
 Any roadblocks that were encountered, I felt comfortable handling myself. Common resources I used were documentation from either cplusplus.com or geeksforgeeks.org . Reading the documentation helped refresh my mind on how to implement various library functions I was not proficient with.
